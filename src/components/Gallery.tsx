@@ -18,7 +18,7 @@ const images = [
   { src: sports6, alt: "Cyclist racing in velodrome with motion blur", sport: "Cycling" },
   { src: sports7, alt: "Rugby scrum in intense physical contest", sport: "Rugby" },
   { src: sports8, alt: "Gymnast mid-flip on balance beam", sport: "Gymnastics" },
-  { src: sports9, alt: "Beach volleyball player spiking at sunset", sport: "Volleyball" },
+  { src: sports9, alt: "Volleyball team celebrating a point", sport: "Volleyball" },
 ];
 
 const Gallery = () => {
