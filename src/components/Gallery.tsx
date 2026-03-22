@@ -12,7 +12,7 @@ import sports9 from "@/assets/sports-9.jpg";
 const images = [
   { src: sports1, alt: "Soccer player mid-kick under stadium lights", sport: "Football" },
   { src: sports2, alt: "Basketball player dunking the ball", sport: "Basketball" },
-  { src: sports3, alt: "Sprinter racing on the track at golden hour", sport: "Athletics" },
+  { src: sports3, alt: "Basketball player dribbling during national team game", sport: "Basketball" },
   { src: sports4, alt: "Swimmer diving into pool underwater shot", sport: "Swimming" },
   { src: sports5, alt: "Tennis player serving under dramatic lighting", sport: "Tennis" },
   { src: sports6, alt: "Cyclist racing in velodrome with motion blur", sport: "Cycling" },
