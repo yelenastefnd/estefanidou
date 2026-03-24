@@ -68,7 +68,7 @@ const Sidebar = () => {
           <h1 className="font-display text-2xl font-bold uppercase tracking-wider leading-[1.1] mb-12">
             Elena<br />Stefanidou
           </h1>
-          <p className="font-body text-xs uppercase tracking-[0.2em] text-accent mb-10">
+          <p className="font-body text-xs uppercase tracking-[0.2em] mb-10 text-primary">
             Sports Photography
           </p>
           <nav className="flex flex-col gap-4">
