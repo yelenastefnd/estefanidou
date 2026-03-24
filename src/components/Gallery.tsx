@@ -8,6 +8,8 @@ import sports6 from "@/assets/sports-6.jpg";
 import sports7 from "@/assets/sports-7.jpg";
 import sports8 from "@/assets/sports-8.jpg";
 import sports9 from "@/assets/sports-9.jpg";
+import sports10 from "@/assets/sports-10.jpg";
+import sports11 from "@/assets/sports-11.jpg";
 
 const images = [
   { src: sports1, alt: "Basketball player in action during game", sport: "Basketball" },
@@ -19,6 +21,8 @@ const images = [
   { src: sports7, alt: "Handball player celebrating a goal", sport: "Handball" },
   { src: sports8, alt: "Basketball player celebrating with intensity", sport: "Basketball" },
   { src: sports9, alt: "Basketball coach drawing up plays during timeout", sport: "Basketball" },
+  { src: sports10, alt: "Volleyball player serving during Greek cup match", sport: "Volleyball" },
+  { src: sports11, alt: "Volleyball player focused before the play", sport: "Volleyball" },
 ];
 
 const Gallery = () => {
