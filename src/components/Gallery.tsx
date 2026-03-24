@@ -17,8 +17,8 @@ const images = [
   { src: sports5, alt: "Young handball player mid-air throw", sport: "Handball" },
   { src: sports6, alt: "Greek national team basketball player portrait", sport: "Basketball" },
   { src: sports7, alt: "Handball player celebrating a goal", sport: "Handball" },
-  { src: sports8, alt: "Gymnast mid-flip on balance beam", sport: "Gymnastics" },
-  { src: sports9, alt: "Volleyball team celebrating a point", sport: "Volleyball" },
+  { src: sports8, alt: "Basketball player celebrating with intensity", sport: "Basketball" },
+  { src: sports9, alt: "Basketball coach drawing up plays during timeout", sport: "Basketball" },
 ];
 
 const Gallery = () => {
