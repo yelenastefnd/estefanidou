@@ -10,15 +10,15 @@ import sports8 from "@/assets/sports-8.jpg";
 import sports9 from "@/assets/sports-9.jpg";
 
 const images = [
-  { src: sports1, alt: "Soccer player mid-kick under stadium lights", sport: "Football" },
+  { src: sports1, alt: "Basketball player in action during game", sport: "Basketball" },
   { src: sports2, alt: "Basketball player dunking the ball", sport: "Basketball" },
   { src: sports3, alt: "Basketball player dribbling during national team game", sport: "Basketball" },
   { src: sports4, alt: "Handball player jumping to shoot", sport: "Handball" },
   { src: sports5, alt: "Young handball player mid-air throw", sport: "Handball" },
   { src: sports6, alt: "Greek national team basketball player portrait", sport: "Basketball" },
   { src: sports7, alt: "Handball player celebrating a goal", sport: "Handball" },
-  { src: sports8, alt: "Gymnast mid-flip on balance beam", sport: "Gymnastics" },
-  { src: sports9, alt: "Volleyball team celebrating a point", sport: "Volleyball" },
+  { src: sports8, alt: "Basketball player celebrating with intensity", sport: "Basketball" },
+  { src: sports9, alt: "Basketball coach drawing up plays during timeout", sport: "Basketball" },
 ];
 
 const Gallery = () => {
