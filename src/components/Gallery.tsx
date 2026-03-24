@@ -21,6 +21,8 @@ const images = [
   { src: sports7, alt: "Handball player celebrating a goal", sport: "Handball" },
   { src: sports8, alt: "Basketball player celebrating with intensity", sport: "Basketball" },
   { src: sports9, alt: "Basketball coach drawing up plays during timeout", sport: "Basketball" },
+  { src: sports10, alt: "Volleyball player serving during Greek cup match", sport: "Volleyball" },
+  { src: sports11, alt: "Volleyball player focused before the play", sport: "Volleyball" },
 ];
 
 const Gallery = () => {
